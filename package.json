@@ -2,7 +2,7 @@
   "name": "ansible-github-metrics",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://priyamsahoo.github.io/ansible-devtools-metrics",
+  "homepage": "https://priyamsahoo.github.io/ansible-devtools-metrics/",
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
     "@apollo/client": "^3.3.7",
