@@ -2,6 +2,7 @@
   "name": "ansible-github-metrics",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://priyamsahoo.github.io/ansible-devtools-metrics",
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
     "@apollo/client": "^3.3.7",
@@ -17,6 +18,7 @@
     "date-fns": "^2.16.1",
     "date-range-picker": "^0.3.5",
     "dotenv": "^8.2.0",
+    "gh-pages": "^3.2.3",
     "graphql": "^15.4.0",
     "jquery": "^3.5.1",
     "lodash": "^4.17.20",
@@ -38,7 +40,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
