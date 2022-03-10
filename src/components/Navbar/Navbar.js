@@ -21,11 +21,11 @@ const Navbar = () => {
       <div className="header">
         <div className="logo">
           <img src={logo} alt="Logo"></img>
-          <h2 style={{ fontWeight: "bold" }}> Content Collection Metrics</h2>
+          <h2 style={{ fontWeight: "bold" }}> Devtools Project Metrics</h2>
         </div>
         <div className="mobile-hidden">
           <Anchor targetOffset="50">
-            <Link href="/collections" title="Collections" />
+            <Link href="/collections" title="Projects" />
             <Link href="/developers" title="Developers" />
             <Link href="/analytics" title="Analytics" />
           </Anchor>
