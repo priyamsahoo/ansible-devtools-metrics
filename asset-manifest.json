@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ansible-devtools-metrics/static/css/main.73bd6678.chunk.css",
-    "main.js": "/ansible-devtools-metrics/static/js/main.d6037970.chunk.js",
-    "main.js.map": "/ansible-devtools-metrics/static/js/main.d6037970.chunk.js.map",
+    "main.js": "/ansible-devtools-metrics/static/js/main.57bc0e2d.chunk.js",
+    "main.js.map": "/ansible-devtools-metrics/static/js/main.57bc0e2d.chunk.js.map",
     "runtime-main.js": "/ansible-devtools-metrics/static/js/runtime-main.71938632.js",
     "runtime-main.js.map": "/ansible-devtools-metrics/static/js/runtime-main.71938632.js.map",
     "static/css/2.dea486e8.chunk.css": "/ansible-devtools-metrics/static/css/2.dea486e8.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.dea486e8.chunk.css",
     "static/js/2.1befd86c.chunk.js",
     "static/css/main.73bd6678.chunk.css",
-    "static/js/main.d6037970.chunk.js"
+    "static/js/main.57bc0e2d.chunk.js"
   ]
 }
