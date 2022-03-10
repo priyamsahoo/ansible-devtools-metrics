@@ -18,7 +18,7 @@ const { Header, Content, Footer } = Layout;
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Layout className="main-layout">
         <Header>
           <Navbar />
